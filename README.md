@@ -1,6 +1,9 @@
 # MS-Excel_Road-Accident Data_Dashboard
 🚗 Road Accident Dashboard – MS Excel
 
+![image](https://github.com/user-attachments/assets/e6027ae8-7bf1-4a1a-bf89-4518e61b5dbe)
+
+
 📌 Project Overview
 This project presents a dynamic Road Accident Analysis Dashboard built in Microsoft Excel, designed to provide critical insights into accident patterns, severity, locations, and causes. It empowers stakeholders with data-driven visibility into road safety trends to help inform preventive measures.
 
